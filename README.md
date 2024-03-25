@@ -1,2 +1,2 @@
 # certificaciones
-Certificaciones de cursos finalizados
+Certificaciones de cursos y programas finalizados
